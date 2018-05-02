@@ -8,7 +8,7 @@ As basic as it sounds its a side project i created in less than 1 hour and im pr
   - Handlebars Templating
   - Magic
 
-# You can also:
+# You can:
   - Create a user
   - Search for a user
   working on Remove and additional functionality.
